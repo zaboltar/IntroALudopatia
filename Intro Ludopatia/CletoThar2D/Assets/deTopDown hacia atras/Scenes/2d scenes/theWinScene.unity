@@ -985,9 +985,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Turtle Fighter\r\n\r\nCREDITS\n\rMusic:\r Amusia / \rThar\r\n\rArt:\r Phillipp
-    Lensen (hero and mobs)\r / LightSkin/Frank Altera (village)\r / Internet/ Cleto\r\n\rCode:\r
-    Darthoul Sensei\r /Cleto \r\n\rDesign:\r Cleto"
+  m_Text: 
 --- !u!222 &1829171383
 CanvasRenderer:
   m_ObjectHideFlags: 0
